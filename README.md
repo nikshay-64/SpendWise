@@ -34,11 +34,49 @@ Built with an offline-first philosophy, SpendWise keeps your financial informati
 - **Customizable Settings:** Configure currency, date format, appearance, and monthly tracking preferences.
 - **Offline First:** Financial records are stored locally on your device.
 
-## Screenshots
+## 📱 Application Screenshots
 
-Application screenshots will be added here.
+Explore the SpendWise interface, designed with a clean, modern dark aesthetic and an emerald-green accent.
 
-<!-- Add sanitized application screenshots to assets/screenshots/ -->
+<p align="center">
+  <strong>Home Dashboard</strong><br>
+  <img src="assets/screenshots/01-home.png" width="260" alt="SpendWise Home Dashboard">
+</p>
+
+<p align="center">
+  <strong>Application Splash Screen</strong><br>
+  <img src="assets/screenshots/02-splash.png" width="260" alt="SpendWise Splash Screen">
+</p>
+
+<p align="center">
+  <strong>Account Management</strong><br>
+  <img src="assets/screenshots/03-accounts.png" width="260" alt="SpendWise Accounts">
+</p>
+
+<p align="center">
+  <strong>Financial Statistics</strong><br>
+  <img src="assets/screenshots/04-statistics.png" width="260" alt="SpendWise Statistics">
+</p>
+
+<p align="center">
+  <strong>App Settings</strong><br>
+  <img src="assets/screenshots/05-settings.png" width="260" alt="SpendWise Settings">
+</p>
+
+<p align="center">
+  <strong>Privacy & Security</strong><br>
+  <img src="assets/screenshots/06-privacy.png" width="260" alt="SpendWise Privacy and Security">
+</p>
+
+<p align="center">
+  <strong>About SpendWise</strong><br>
+  <img src="assets/screenshots/07-about.png" width="260" alt="About SpendWise">
+</p>
+
+<p align="center">
+  <strong>Navigation Drawer</strong><br>
+  <img src="assets/screenshots/08-navigation.png" width="260" alt="SpendWise Navigation Drawer">
+</p>
 
 ## Privacy & Security
 
