@@ -110,7 +110,7 @@ Google Play Protect may display an **"Unrecognized app"** warning when installin
 
 If you see this warning, verify that you downloaded the APK from the official SpendWise repository before deciding whether to proceed with installation.
 
-## (THE APP HAS PASSED THE PLAYSTORE SECUIRTY CHECKS)
+##### (THE APP HAS PASSED THE PLAYSTORE SECUIRTY CHECKS)
 
 **Official repository:** https://github.com/nikshay-64/SpendWise
 
