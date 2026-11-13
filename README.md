@@ -102,6 +102,16 @@ To install:
 3. Allow installation from this source if Android requests permission.
 4. Complete installation and start managing your finances.
 
+### ⚠️ Installation Note
+
+SpendWise is distributed directly through GitHub and is not currently listed on the Google Play Store.
+
+Google Play Protect may display an **"Unrecognized app"** warning when installing the APK downloaded from GitHub. This can happen with apps distributed outside Google Play.
+
+If you see this warning, verify that you downloaded the APK from the official SpendWise repository before deciding whether to proceed with installation.
+
+**Official repository:** https://github.com/nikshay-64/SpendWise
+
 ## Application Information
 
 | Detail | Information |
